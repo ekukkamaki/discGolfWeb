@@ -1,0 +1,32 @@
+{
+  "name": "discgolfmobx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "discgolfmobx"
+  },
+  "author": "Esa Kukkamäki",
+  "license": "ISC",
+  "devDependencies": {
+    "bulma-slider": "^2.0.0",
+    "mobx": "^5.0.0",
+    "mobx-react": "^5.2.2",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-fontawesome": "^1.6.1",
+    "react-router-dom": "^4.3.1",
+    "superagent": "^3.8.3",
+    "superagent-promise": "^1.1.0"
+  },
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "custom-react-scripts": "^0.2.2"
+  }
+}
